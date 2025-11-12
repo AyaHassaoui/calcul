@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HabitationAndroid</string>
+
+    <string name="titre">Calcul des impôts locaux</string>
+
+    <!-- NEW -->
+    <string name="nom">Nom</string>
+    <string name="adresse">Adresse</string>
+    <string name="hint_nom">Nom</string>
+    <string name="hint_adresse">Adresse</string>
+
+    <string name="surface">Surface</string>
+    <string name="pieces">Nombre de pièces</string>
+    <string name="piscine">Piscine</string>
+    <string name="btn_calcul">Calcul</string>
+
+    <string name="hint_surface">Surface (m²)</string>
+    <string name="hint_pieces">Nombre de pièces</string>
+
+    <!-- NEW -->
+    <string name="err_nom">Veuillez saisir votre nom</string>
+    <string name="err_adresse">Veuillez saisir votre adresse</string>
+
+    <string name="err_surface">Veuillez saisir la surface</string>
+    <string name="err_pieces">Veuillez saisir le nombre de pièces</string>
+    <string name="err_format">Format invalide (ex: 120 ou 120,5)</string>
+    <string name="err_negatifs">Les valeurs ne doivent pas être négatives</string>
+
+    <!-- Entête + détails -->
+    <string name="res_header">Reçu de calcul pour %1$s\nAdresse : %2$s</string>
+    <string name="res_format">Impôt de base : %1$s\nImpôt supplémentaire : %2$s\nImpôt total : %3$s</string>
+</resources>
